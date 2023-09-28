@@ -1,6 +1,8 @@
 # synesthesia
 A drawing machine in Processing that illustrates synesthesia with audio. 
 
+![gif3](https://github.com/emtchung/synesthesia/assets/145934801/0cf02c2a-9ae8-4189-b011-7184c6f6f2cc)
+
 In Processing, I coded the program to take in audio input, either from a mic or uploaded song or both, to create shapes in which its size will be based on the volume level. This process involved getting audio data from the sounds we would be using, i.e. the mic and songs, and analyzing the amplitude of the songs to decide at what level would be considered, loud, average, and soft sounds.
 
 Users are given a choice of 12 Royalty-Free songs to choose from without knowing what those songs are, and afterwards, they can change the color and shape representing the song as the song plays.
